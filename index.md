@@ -2,12 +2,11 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <h1>Fangyuan Luo</h1>
+      <p><b>Ph.D. student</b></p>
+      <p><b>School of Computer and Information Technology</b></p>
+      <p><b>Beijing Jiaotong University, Beijing, China, 100044</b></p>
+      <p><b>E-mail：fangyuanluo@bjtu.edu.cn</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
@@ -18,31 +17,22 @@
 
 ---
 
-张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
+### Bio & Research Interests
+I am currently a third year PhD student in Department of Computer Science and Engineering, Beijing Jiaotong University, under the supervision of Professor Jun Wu. I received my bachelor’s degree from Hefei University of Technology in 2018.
+
+My research interests are machine learning and data mining for the applications of recommender systems. My recent working topics include but are not limited to:
+\item Learning to Hash for recommender systems
+\item Learning to Rank for recommender systems
+\item Learning to Debias for recommender systems
 
 ---
 
-### 最新消息
-1. 消息1×××
+### Education Experience
+\item Beijing Jiaotong University, Ph.D. student	2020.9-Now
+\item Beijing Jiaotong University, Master	2018.9-2020.6
+\item Hefei University of Technology, Bachelor	2014.9-2018.6
 
-### 研究方向
-- 文本挖掘
-- 知识图谱
 
-### 荣誉奖励
-- 奖学金
-- 荣誉称号
-- 比赛获奖
+### Publications
 
-### 项目研究
-#### 公司/学校/研究所（2013.9~2017.6）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
 
-#### 公司/学校/研究所（2017.9~至今）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
