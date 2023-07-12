@@ -9,7 +9,7 @@
       <p><b>E-mail：fangyuanluo@bjtu.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/FangyuanLuo.jpg" width="100%">
     </td>
   </tr>
 </table>
