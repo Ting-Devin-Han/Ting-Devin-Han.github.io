@@ -7,9 +7,10 @@
       <p><b>School of Computer and Information Technology</b></p>
       <p><b>Beijing Jiaotong University, Beijing, China, 100044</b></p>
       <p><b>E-mail：fangyuanluo@bjtu.edu.cn</b></p>
+      <p><b>[Google Scholar](https://scholar.google.com/citations?user=lnZS6IEAAAAJ&hl=en) - [Github](https://github.com/LFY123456)</b></p>
     </td>
     <td width="25%">
-      <img src="/FangyuanLuo.jpg" width="100%">
+      <img src="/FangyuanLuo.jpg" width="50%">
     </td>
   </tr>
 </table>
