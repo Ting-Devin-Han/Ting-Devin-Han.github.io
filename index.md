@@ -21,16 +21,22 @@
 I am currently a third year PhD student in Department of Computer Science and Engineering, Beijing Jiaotong University, under the supervision of Professor Jun Wu. I received my bachelor’s degree from Hefei University of Technology in 2018.
 
 My research interests are machine learning and data mining for the applications of recommender systems. My recent working topics include but are not limited to:
-\item Learning to Hash for recommender systems
-\item Learning to Rank for recommender systems
-\item Learning to Debias for recommender systems
+
+- Learning to Hash for recommender systems
+
+- Learning to Rank for recommender systems
+
+- Learning to Debias for recommender systems
 
 ---
 
 ### Education Experience
-\item Beijing Jiaotong University, Ph.D. student	2020.9-Now
-\item Beijing Jiaotong University, Master	2018.9-2020.6
-\item Hefei University of Technology, Bachelor	2014.9-2018.6
+
+- Beijing Jiaotong University, Ph.D. student	2020.9-Now
+
+- Beijing Jiaotong University, Master	2018.9-2020.6
+  
+- Hefei University of Technology, Bachelor	2014.9-2018.6
 
 
 ### Publications
