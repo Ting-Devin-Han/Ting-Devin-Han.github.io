@@ -2,11 +2,11 @@
 <table border="0">
   <tr>
     <td>
-      <h1>Zhang San</h1>
-      <p><b>Master</b></p>
-      <p><b>College of ××, ×× University</b></p>
-      <p><b>E-mail：1234567789@qq.com</b></p>
-      <p><b>Address：Rm××, ×× Building, ×× University, ×× Road, Nanjing</b></p>
+      <h1>Fangyuan Luo</h1>
+      <p><b>Ph.D.</b></p>
+      <p><b>School of Computer and Information Technology</b></p>
+      <p><b>Beijing Jiaotong University, Beijing, China, 100044</b></p>
+      <p><b>E-mail：fangyuanluo@bjtu.edu.cn</b></p>
       <a href="/index.html">中文版</a>
     </td>
     <td width="25%">
