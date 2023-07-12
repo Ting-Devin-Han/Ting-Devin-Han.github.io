@@ -39,6 +39,8 @@ My research interests are machine learning and data mining for the applications 
   
 - Hefei University of Technology, Bachelor	2014.9-2018.6
 
+---
+
 
 ### Publications
 
