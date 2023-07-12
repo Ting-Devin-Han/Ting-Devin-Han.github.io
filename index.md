@@ -10,7 +10,7 @@
       <p><b><a href="https://scholar.google.com/citations?user=lnZS6IEAAAAJ&hl=en">Google Scholar</a> - <a href="https://github.com/LFY123456">Github</a></b></p>
     </td>
     <td width="25%">
-      <img src="/FangyuanLuo.jpg" width="50%">
+      <img src="/FangyuanLuo.jpg" width="100%">
     </td>
   </tr>
 </table>
