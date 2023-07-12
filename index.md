@@ -41,18 +41,18 @@ My research interests are machine learning and data mining for the applications 
 
 ### Publications
 
-- Fangyuan Luo, Jun Wu. User-Dependent Learning to Debias for Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023.
+- **Fangyuan Luo**, Jun Wu. User-Dependent Learning to Debias for Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2023.
 
-- Honglei Zhang, Fangyuan Luo, Jun Wu, Xiangnan He, Yidong Li. LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization. ACM Transactions on Information Systems, 2023.
+- Honglei Zhang, **Fangyuan Luo**, Jun Wu, Xiangnan He, Yidong Li. LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization. **ACM Transactions on Information Systems**, 2023.
 
-- Fangyuan Luo, Jun Wu, Tao Wang. Discrete Listwise Personalized Ranking for Fast Top-N Recommendation with Implicit Feedback. The International Joint Conferences on Artificial Intelligence (IJCAI), 2022.
+- **Fangyuan Luo**, Jun Wu, Tao Wang. Discrete Listwise Personalized Ranking for Fast Top-N Recommendation with Implicit Feedback. The International Joint Conferences on Artificial Intelligence (**IJCAI**), 2022.
 
-- Shuang Tang, Fangyuan Luo, Jun Wu. Smooth-AUC: Smoothing the Path Towards Rank-based CTR Prediction. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022.
+- Shuang Tang, **Fangyuan Luo**, Jun Wu. Smooth-AUC: Smoothing the Path Towards Rank-based CTR Prediction. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2022.
 
-- Fangyuan Luo, Jun Wu, Haishuai Wang. Semi-Discrete Social Recommendation (Student Abstract). The 35th AAAI Conference on Artificial Intelligence (AAAI), 2021.
+- **Fangyuan Luo**, Jun Wu, Haishuai Wang. Semi-Discrete Social Recommendation (Student Abstract). The 35th AAAI Conference on Artificial Intelligence (**AAAI**), 2021.
 
-- Junheng Huang, Fangyuan Luo, Jun Wu. Semi-supervised Factorization Machines for Review-Aware Recommendation. The 26th International Conference on Database Systems for Advanced Applications (DASFAA), 2021.
+- Junheng Huang, **Fangyuan Luo**, Jun Wu. Semi-supervised Factorization Machines for Review-Aware Recommendation. The 26th International Conference on Database Systems for Advanced Applications (**DASFAA**), 2021.
 
-- Jun Wu, Fangyuan Luo, Yujia Zhang, Haishuai Wang. Semi-discrete Matrix Factorization. IEEE Intelligent Systems, 2020.
+- Jun Wu, **Fangyuan Luo**, Yujia Zhang, Haishuai Wang. Semi-discrete Matrix Factorization. **IEEE Intelligent Systems**, 2020.
 
 
