@@ -27,7 +27,7 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/Chat3D.jpg" alt="Chat3D" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Chat3D.jpg" alt="Chat3D" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
