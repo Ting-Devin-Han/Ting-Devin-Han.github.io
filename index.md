@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>FangyuanTing Han (韩汀)</h1>
+      <h1>Ting Han (韩汀)</h1>
       <p><b>👨‍🎓: Ph.D. student</b></p>
       <p><b>🏫: School of Geospatial Engineering and Science, Sun Yat-Sen University</b></p>
       <p><b>🌏: Zhuhai 519082, Guangdong, China</b></p>
