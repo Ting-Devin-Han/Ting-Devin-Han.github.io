@@ -17,14 +17,14 @@
 </table>
 </div>
 
-### Bio & Research Interests 🔥
+### **Bio & Research Interests** 🔥
 I am currently a first year Ph.D. student in [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/), [Sun Yat-Sen University](https://www.sysu.edu.cn/), under the supervision of Professor [Yiping Chen](https://ting-devin-han.github.io/Epingpages.github.io/). I graduated from the School of Computer Engineering at Jimei University for my master's degree, where my advisor was Professor [Guorong Cai](https://cec.jmu.edu.cn/info/1008/4123.htm).
 
 My research interests are deep learning theories, methods, and applications for 3D point cloud processing in remote sensing. 🚀🚀🚀
 
 ---
 
-### Publications 🔔
+### **Publications** 🔔
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -74,7 +74,7 @@ My research interests are deep learning theories, methods, and applications for 
 - <strong>CAT: Using Cross Attention Transformation to Build Correlation of RGB-D for Road Detection</strong>, **Ting Han**, Guorong Cai, Xinying Wang, Siyu Chen, Hefeng Chen, Yanhao Lin, Huan Xu, Chuanmu Li\*, *2022 8th International Conference on Big Data Computing and Communications*, 2022.
 
 ---
-### Honours 🎁
+### **Honours** 🎁
 - **Best Paper Award** at the First Global Sustainable Development International High-end Forum on Spatial Information, 2023.
 - **Excellent Paper Award** at the 7th National Conference on LiDAR, 2023.
 - **Bronze Award** at Application Track in Huawei Ascend AI Innovation Competition, Fujian, 2023. 
