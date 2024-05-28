@@ -7,7 +7,7 @@
       <p><b>👷‍♂️: School of Geospatial Engineering and Science</b></p>
       <p><b>🏫: Sun Yat-Sen University</b></p>
       <p><b>🌏: Zhuhai 519082, Guangdong, China</b></p>
-      <p><b>📧：ting.devin.han@gmail.com</b></p>
+      <p><b>📧: ting.devin.han@gmail.com</b></p>
       <p><b><a href="https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN&oi=ao">Google Scholar👨‍🏫</a> - <a href="https://github.com/Ting-Devin-Han">Github💻</a></b></p>
     </td>
     <td width="25%">
