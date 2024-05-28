@@ -1,21 +1,16 @@
-<div>
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Ting Han (韩汀)</h1>
-      <p><b>👨‍🎓: Ph.D. student</b></p>
-      <p><b>🏫: School of Geospatial Engineering and Science, Sun Yat-Sen University</b></p>
-      <p><b>🌏: Zhuhai 519082, Guangdong, China</b></p>
-      <p><b>📧：ting.devin.han@gmail.com</b></p>
-      <p><b><a href="https://scholar.google.com/citations?user=lnZS6IEAAAAJ&hl=en">Google Scholar</a> - <a href="https://github.com/LFY123456">Github</a></b></p>
-    </td>
-    <td width="25%">
-      <img src="/FangyuanLuo.jpg" width="100%">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 25%;">
+        <img src="/FangyuanLuo.jpg" style="width: 100%;">
+    </div>
+    <div style="flex: 75%;">
+        <h1>Ting Han (韩汀)</h1>
+        <p><b>👨‍🎓: Ph.D. student</b></p>
+        <p><b>🏫: School of Geospatial Engineering and Science, Sun Yat-Sen University</b></p>
+        <p><b>🌏: Zhuhai 519082, Guangdong, China</b></p>
+        <p><b>📧: ting.devin.hn@gmail.com</b></p>
+        <p><b><a href="https://scholar.google.com/citations?user=lnZS6IEAAAAJ&hl=en">Google Scholar</a> - <a href="https://github.com/LFY123456">Github</a></b></p>
+    </div>
 </div>
-
 ---
 
 ### Bio & Research Interests
