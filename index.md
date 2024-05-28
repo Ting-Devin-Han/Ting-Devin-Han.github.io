@@ -2,11 +2,11 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Fangyuan Luo</h1>
-      <p><b>Ph.D. student</b></p>
-      <p><b>School of Computer and Information Technology</b></p>
-      <p><b>Beijing Jiaotong University, Beijing, China, 100044</b></p>
-      <p><b>E-mail：fangyuanluo@bjtu.edu.cn</b></p>
+      <h1>FangyuanTing Han (韩汀)</h1>
+      <p><b>👨‍🎓: Ph.D. student</b></p>
+      <p><b>🏫: School of Geospatial Engineering and Science, Sun Yat-Sen University</b></p>
+      <p><b>🌏: Zhuhai 519082, Guangdong, China</b></p>
+      <p><b>📧：ting.devin.han@gmail.com</b></p>
       <p><b><a href="https://scholar.google.com/citations?user=lnZS6IEAAAAJ&hl=en">Google Scholar</a> - <a href="https://github.com/LFY123456">Github</a></b></p>
     </td>
     <td width="25%">
