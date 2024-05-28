@@ -67,5 +67,13 @@ My research interests are deep learning theories, methods, and applications for 
 </div>
 <br>
 
+- <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, **Ting Han**, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, Yiping Chen\*, *Geomatics and Information Science of Wuhan University*, 2024.
+- <strong>Semantic segmentation of city road elements from point cloud based on semi-supervised graph convolution</strong>, Yiping Chen, **Ting Han**, Jun Chen, Hongchao Fan\*, *Northern Lights Deep Learning Conference Abstracts 2024*, 2023.
+- <strong>HEAT: Incorporating hierarchical enhanced attention transformation into urban road detection</strong>, **Ting Han**, Chuanmu Li, Siyu Chen, Zongyue Wang, Jinhe Su, Yundong Wu, Guorong Cai\*, *IET Intelligent Transport Systems*, 2023.
+
+---
+### Honours
+- **Best Paper Award** at the First Global Sustainable Development International High-end Forum on Spatial Information, 2023.
+- **Excellent Paper Award** at the 7th National Conference on LiDAR, 2023.
 
 
