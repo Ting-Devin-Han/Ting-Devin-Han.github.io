@@ -9,5 +9,3 @@ plugins:
 title: [Welcome to Ting Han's Homepage]
 # description: [A short description of your site's purpose]
 
-include: ["_includes", "_pages", "_layouts", "_assets"]
-
