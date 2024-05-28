@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
     <div style="flex: 25%;">
-        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/blob/master/figures/TingHan.jpg" style="width: 100%;">
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/TingHan.jpg" style="width: 100%;">
     </div>
     <div style="flex: 75%;">
         <h1>Ting Han (韩汀)</h1>
