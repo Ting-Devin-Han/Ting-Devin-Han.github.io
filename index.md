@@ -33,8 +33,36 @@ My research interests are deep learning theories, methods, and applications for 
   <div style="flex: 70%;">
     <strong>Chat3D: Interactive Understanding 3D Scene-Level Point Clouds by Chatting with Foundation Model for Urban Ecological Construction</strong><br>
     Yiping Chen, Shuai Zhang*, <strong>Ting Han</strong>, Yumeng Du, Wuming Zhang, Jonathan Li<br>
-    ISPRS Journal of Photogrammetry and Remote Sensing 2024 (<strong>IF=12.7</strong>)<br>
+    ISPRS Journal of Photogrammetry and Remote Sensing 2024 (<strong>JCR Q1, IF=12.7</strong>)<br>
     <a href="https://www.sciencedirect.com/science/article/pii/S0924271624001849">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/SurveyZhiyunZhuang.png" alt="SurveyZhiyunZhuang" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>A Survey of Point Cloud Completion</strong><br>
+    Zhiyun Zhuang, Zhiyang Zhi, <strong>Ting Han</strong>, Yiping Chen*, Jun Chen, Cheng Wang, Ming Cheng, Xinchang Zhang, Nannan Qin, Lingfei Ma<br>
+    IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2024 (<strong>JCR Q1, IF=5.5</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10433645">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Epurate.png" alt="Epurate" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Epurate-Net: Efficient Progressive Uncertainty Refinement Analysis for Traffic Environment Urban Road Detection</strong><br>
+    <strong>Ting Han</strong>, Siyu Chen, Chuanmu Li, Zongyue Wang, Jinhe Su, Min Huang, Guorong Cai*<br>
+    IEEE Transactions on Intelligent Transportation Systems 2024 (<strong>JCR Q1, IF=8.5, CCF-B</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10417732">Paper📄</a>
   </div>
 </div>
 <br>
