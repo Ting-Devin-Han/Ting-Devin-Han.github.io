@@ -68,6 +68,8 @@ My research interests are deep learning theories, methods, and applications for 
 </div>
 <br>
 
+- <strong>Comparative Analysis of Advanced Feature Matching Algorithms in Challenge High Spatial Resolution Optical Stereo Scenarios</strong>, Qiyan Luo, Jidan Zhang, Yuzhen Xie, Xu Huang\*, **Ting Han**, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024.
+- <strong>Incorporating Building Information into Road Extraction from Remote Sensing Images</strong>, Xiangyi Xie, **Ting Han**, Yumeng Du, Yiping Chen\*, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024.
 - <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, **Ting Han**, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, Yiping Chen\*, *Geomatics and Information Science of Wuhan University*, 2024.
 - <strong>Semantic segmentation of city road elements from point cloud based on semi-supervised graph convolution</strong>, Yiping Chen, **Ting Han**, Jun Chen, Hongchao Fan\*, *Northern Lights Deep Learning Conference Abstracts 2024*, 2023.
 - <strong>HEAT: Incorporating hierarchical enhanced attention transformation into urban road detection</strong>, **Ting Han**, Chuanmu Li, Siyu Chen, Zongyue Wang, Jinhe Su, Yundong Wu, Guorong Cai\*, *IET Intelligent Transport Systems*, 2023.
