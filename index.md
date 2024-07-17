@@ -63,7 +63,7 @@ My research interests are deep learning theories, methods, and applications for 
     <strong>Epurate-Net: Efficient Progressive Uncertainty Refinement Analysis for Traffic Environment Urban Road Detection</strong><br>
     <strong>Ting Han</strong>, Siyu Chen, Chuanmu Li, Zongyue Wang, Jinhe Su, Min Huang, Guorong Cai*<br>
     IEEE Transactions on Intelligent Transportation Systems 2024 (<strong>JCR Q1, IF=8.5, CCF-B</strong>)<br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10417732">Paper📄</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10417732">Paper📄</a><a href="https://github.com/Ting-Devin-Han/Epurate-Net">Code🖥️</a>
   </div>
 </div>
 <br>
