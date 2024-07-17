@@ -77,7 +77,8 @@ My research interests are deep learning theories, methods, and applications for 
 
 ---
 ### **Honours** 🎁
-- **Best Paper Award** at the First Global Sustainable Development International High-end Forum on Spatial Information, 2023.
+- **Honourable Mention** at the 1st Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics in Conjunction CVPR Workshop 2024 - Building3D Competition.
+- **Best Paper Award** at the 1st Global Sustainable Development International High-end Forum on Spatial Information, 2023.
 - **Excellent Paper Award** at the 7th National Conference on LiDAR, 2023.
 - **Bronze Award** at Application Track in Huawei Ascend AI Innovation Competition, Fujian, 2023. 
 
