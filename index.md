@@ -83,7 +83,7 @@ My research interests are deep learning theories, methods, and applications for 
 - **Bronze Award** at Application Track in Huawei Ascend AI Innovation Competition, Fujian, 2023.
 
 --
-### **Services** 🎁
+### **Services** 📝
 - Reviewer of IEEE Transactions on Cybernetics.
 - Reviewer of IEEE IEEE Transactions on Intelligent Transportation Systems.
 - Reviewer of International Journal of Applied Earth Observation and Geoinformation.
