@@ -28,13 +28,27 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Pmate.png" alt="Pmate" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Pmate: Pay More Attention to Edge Points in 3D Roof Wireframe Reconstruction</strong><br>
+    Qiaoqiao Hao, Yujun Liu, Shangfeng Huang, <strong>Ting Han</strong>, Duxin Zhu, Jinhe Su, Yundong Wu, GuoRong Cai*<br>
+    Available at SSRN 4895552<br>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895552">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Chat3D.jpg" alt="Chat3D" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
     <strong>Chat3D: Interactive Understanding 3D Scene-Level Point Clouds by Chatting with Foundation Model for Urban Ecological Construction</strong><br>
     Yiping Chen, Shuai Zhang*, <strong>Ting Han</strong>, Yumeng Du, Wuming Zhang, Jonathan Li<br>
-    ISPRS Journal of Photogrammetry and Remote Sensing 2024 (<strong>JCR Q1, IF=12.7</strong>)<br>
+    ISPRS J. Photogramm. Remote Sens. 2024 (<strong>JCR Q1, IF=12.7</strong>)<br>
     <a href="https://www.sciencedirect.com/science/article/pii/S0924271624001849">Paper📄</a>
   </div>
 </div>
@@ -48,7 +62,7 @@ My research interests are deep learning theories, methods, and applications for 
   <div style="flex: 70%;">
     <strong>A Survey of Point Cloud Completion</strong><br>
     Zhiyun Zhuang, Zhiyang Zhi, <strong>Ting Han</strong>, Yiping Chen*, Jun Chen, Cheng Wang, Ming Cheng, Xinchang Zhang, Nannan Qin, Lingfei Ma<br>
-    IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2024 (<strong>JCR Q1, IF=5.5</strong>)<br>
+    IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. 2024 (<strong>JCR Q1, IF=5.5</strong>)<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10433645">Paper📄</a>
   </div>
 </div>
@@ -62,17 +76,17 @@ My research interests are deep learning theories, methods, and applications for 
   <div style="flex: 70%;">
     <strong>Epurate-Net: Efficient Progressive Uncertainty Refinement Analysis for Traffic Environment Urban Road Detection</strong><br>
     <strong>Ting Han</strong>, Siyu Chen, Chuanmu Li, Zongyue Wang, Jinhe Su, Min Huang, Guorong Cai*<br>
-    IEEE Transactions on Intelligent Transportation Systems 2024 (<strong>JCR Q1, IF=8.5, CCF-B</strong>)<br>
+    IEEE Trans. Intell. Transp. Syst. 2024 (<strong>JCR Q1, IF=8.5, CCF-B</strong>)<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10417732">Paper📄</a><a href="https://github.com/Ting-Devin-Han/Epurate-Net">Code🖥️</a>
   </div>
 </div>
 <br>
 
-- <strong>Comparative Analysis of Advanced Feature Matching Algorithms in Challenge High Spatial Resolution Optical Stereo Scenarios</strong>, Qiyan Luo, Jidan Zhang, Yuzhen Xie, Xu Huang\*, **Ting Han**, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. (Oral)
-- <strong>Incorporating Building Information into Road Extraction from Remote Sensing Images</strong>, Xiangyi Xie, **Ting Han**, Yumeng Du, Yiping Chen\*, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. (Oral)
+- <strong>Comparative Analysis of Advanced Feature Matching Algorithms in Challenge High Spatial Resolution Optical Stereo Scenarios</strong>, Qiyan Luo, Jidan Zhang, Yuzhen Xie, Xu Huang\*, **Ting Han**, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2024. (Oral)
+- <strong>Incorporating Building Information into Road Extraction from Remote Sensing Images</strong>, Xiangyi Xie, **Ting Han**, Yumeng Du, Yiping Chen\*, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2024. (Oral)
 - <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, **Ting Han**, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, Yiping Chen\*, *Geomatics and Information Science of Wuhan University*, 2024.
-- <strong>Semantic segmentation of city road elements from point cloud based on semi-supervised graph convolution</strong>, Yiping Chen, **Ting Han**, Jun Chen, Hongchao Fan\*, *Northern Lights Deep Learning Conference Abstracts 2024*, 2023.
-- <strong>HEAT: Incorporating hierarchical enhanced attention transformation into urban road detection</strong>, **Ting Han**, Chuanmu Li, Siyu Chen, Zongyue Wang, Jinhe Su, Yundong Wu, Guorong Cai\*, *IET Intelligent Transport Systems*, 2023.
+- <strong>Semantic Segmentation of City Road Elements from Point Cloud based on Semi-supervised Graph Convolution</strong>, Yiping Chen, **Ting Han**, Jun Chen, Hongchao Fan\*, *Northern Lights Deep Learning Conference Abstracts 2024*, 2023.
+- <strong>HEAT: Incorporating Hierarchical Enhanced Attention Transformation into Urban Road Detection</strong>, **Ting Han**, Chuanmu Li, Siyu Chen, Zongyue Wang, Jinhe Su, Yundong Wu, Guorong Cai\*, *IET Intell. Transp. Syst.*, 2023.
 - <strong>CAT: Using Cross Attention Transformation to Build Correlation of RGB-D for Road Detection</strong>, **Ting Han**, Guorong Cai, Xinying Wang, Siyu Chen, Hefeng Chen, Yanhao Lin, Huan Xu, Chuanmu Li\*, *2022 8th International Conference on Big Data Computing and Communications*, 2022. (Oral)
 
 ---
