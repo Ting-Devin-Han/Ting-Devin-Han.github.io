@@ -82,17 +82,17 @@ My research interests are deep learning theories, methods, and applications for 
 </div>
 <br>
 
-- <strong>Non-overlapping Multi-Camera Calibration based on Sparse 3D Map</strong>, Changshuai Dai, **Ting Han**, Yang Luo, Mengyi Wang, Guorong Cai, Jinhe Su, Zheng Gong, Niansheng Liu\*, *Sensors*, 2024. (JCR Q2)
+- <strong>NMC3D: Non-overlapping Multi-Camera Calibration based on Sparse 3D Map</strong>, Changshuai Dai, **Ting Han**, Yang Luo, Mengyi Wang, Guorong Cai, Jinhe Su, Zheng Gong, Niansheng Liu\*, *Sensors*, 2024. (JCR Q2)
 - <strong>Comparative Analysis of Advanced Feature Matching Algorithms in Challenge High Spatial Resolution Optical Stereo Scenarios</strong>, Qiyan Luo, Jidan Zhang, Yuzhen Xie, Xu Huang\*, **Ting Han**, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2024. (Oral)
 - <strong>Incorporating Building Information into Road Extraction from Remote Sensing Images</strong>, Xiangyi Xie, **Ting Han**, Yumeng Du, Yiping Chen\*, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2024. (Oral)
 - <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, **Ting Han**, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, Yiping Chen\*, *Geomatics and Information Science of Wuhan University*, 2024.
 - <strong>Semantic Segmentation of City Road Elements from Point Cloud based on Semi-supervised Graph Convolution</strong>, Yiping Chen, **Ting Han**, Jun Chen, Hongchao Fan\*, *Northern Lights Deep Learning Conference Abstracts 2024*, 2023.
-- <strong>HEAT: Incorporating Hierarchical Enhanced Attention Transformation into Urban Road Detection</strong>, **Ting Han**, Chuanmu Li, Siyu Chen, Zongyue Wang, Jinhe Su, Yundong Wu, Guorong Cai\*, *IET Intell. Transp. Syst.*, 2023. (JCR Q2)
+- <strong>HEAT: Incorporating Hierarchical Enhanced Attention Transformation into Urban Road Detection</strong>, **Ting Han**, Chuanmu Li, Siyu Chen, Zongyue Wang, Jinhe Su, Yundong Wu, Guorong Cai\*, *IET Intell. Transp. Syst.*, 2023. (JCR Q2, CCF-C)
 - <strong>CAT: Using Cross Attention Transformation to Build Correlation of RGB-D for Road Detection</strong>, **Ting Han**, Guorong Cai, Xinying Wang, Siyu Chen, Hefeng Chen, Yanhao Lin, Huan Xu, Chuanmu Li\*, *2022 8th International Conference on Big Data Computing and Communications*, 2022. (Oral)
 
 ---
 ### **Honours** 🎁
-- **Geographic Information Technology Progress Award**, 2024.
+- **Second Prize** of Geographic Information Technology Progress Award, 2024.
 - **Honourable Mention** at the 1st Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics in Conjunction CVPR Workshop 2024 - Building3D Competition.
 - **Best Paper Award** at the 1st Global Sustainable Development International High-end Forum on Spatial Information, 2023.
 - **Excellent Paper Award** at the 7th National Conference on LiDAR, 2023.
@@ -102,6 +102,7 @@ My research interests are deep learning theories, methods, and applications for 
 ### **Services** 📝
 - Reviewer of IEEE Transactions on Cybernetics.
 - Reviewer of IEEE IEEE Transactions on Intelligent Transportation Systems.
+- Reviewer of IEEE Transactions on Geoscience and Remote Sensing.
 - Reviewer of International Journal of Applied Earth Observation and Geoinformation.
 - Reviewer of IET Image Processing.
 - Reviewer of IET Intelligent Transport Systems.
