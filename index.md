@@ -28,6 +28,20 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/ASGFormer.gif" alt="ASGFormer" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Point Cloud Semantic Segmentation with Adaptive Spatial Structure Graph Transformer</strong><br>
+    <strong>Ting Han</strong>, Yiping Chen*, Jin Ma, Xiaoxue Liu, Wuming Zhang, Xinchang Zhang, Huajuan Wang<br>
+    Int. J. Appl. Earth Obs. 2024 (<strong>JCR Q1, IF=7.6</strong>)<br>
+    <a href="">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Pmate.png" alt="Pmate" style="width: 90%;"/>
     </a>
   </div>
