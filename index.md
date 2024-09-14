@@ -28,6 +28,20 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/DiPFormer.png" alt="DiPFormer" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Depth Matters: Exploring Deep Interactions of RGB-D for Semantic Segmentation in Traffic Scenes</strong><br>
+    Siyu Chen*, <strong>Ting Han*</strong>, Changshe Zhang,Weiquan Liu, Jinhe Su, Zongyue Wang, Guorong Cai**<br>
+    Arxiv 2024<br>
+    <a href="https://arxiv.org/abs/2409.07995">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/ASGFormer.gif" alt="ASGFormer" style="width: 90%;"/>
     </a>
   </div>
@@ -35,7 +49,7 @@ My research interests are deep learning theories, methods, and applications for 
     <strong>Point Cloud Semantic Segmentation with Adaptive Spatial Structure Graph Transformer</strong><br>
     <strong>Ting Han</strong>, Yiping Chen*, Jin Ma, Xiaoxue Liu, Wuming Zhang, Xinchang Zhang, Huajuan Wang<br>
     Int. J. Appl. Earth Obs. 2024 (<strong>JCR Q1, IF=7.6</strong>)<br>
-    <a href="">Paper📄</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S156984322400459X">Paper📄</a>
   </div>
 </div>
 <br>
