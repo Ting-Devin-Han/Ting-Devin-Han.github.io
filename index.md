@@ -120,9 +120,10 @@ My research interests are deep learning theories, methods, and applications for 
 
 ---
 ### **Honours** 🎁
+- **Best Paper Award** at the 2nd Global Forum on Space Information for Sustainable Development, 2024.
 - **Second Prize** of Geographic Information Technology Progress Award, 2024.
 - **Honourable Mention** at the 1st Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics in Conjunction CVPR Workshop 2024 - Building3D Competition.
-- **Best Paper Award** at the 1st Global Sustainable Development International High-end Forum on Spatial Information, 2023.
+- **Best Paper Award** at the 1st Global Forum on Space Information for Sustainable Development, 2023.
 - **Excellent Paper Award** at the 7th National Conference on LiDAR, 2023.
 - **Bronze Award** at Application Track in Huawei Ascend AI Innovation Competition, Fujian, 2023.
 
@@ -132,6 +133,7 @@ My research interests are deep learning theories, methods, and applications for 
 - Reviewer of IEEE IEEE Transactions on Intelligent Transportation Systems.
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing.
 - Reviewer of International Journal of Applied Earth Observation and Geoinformation.
+- Reviewer of IEEE International Conference on Robotics and Automation.
 - Reviewer of IET Image Processing.
 - Reviewer of IET Intelligent Transport Systems.
 - Reviewer of Electronics Letters.
