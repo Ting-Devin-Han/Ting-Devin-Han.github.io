@@ -56,20 +56,6 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Pmate.png" alt="Pmate" style="width: 90%;"/>
-    </a>
-  </div>
-  <div style="flex: 70%;">
-    <strong>Pmate: Pay More Attention to Edge Points in 3D Roof Wireframe Reconstruction</strong><br>
-    Qiaoqiao Hao, Yujun Liu, Shangfeng Huang, <strong>Ting Han</strong>, Duxin Zhu, Jinhe Su, Yundong Wu, GuoRong Cai*<br>
-    Available at SSRN 4895552<br>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895552">Paper📄</a>
-  </div>
-</div>
-<br>
-<div style="display: flex; align-items: center; width: 100%;">
-  <div style="flex: 30%;">
-    <a>
         <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Chat3D.jpg" alt="Chat3D" style="width: 90%;"/>
     </a>
   </div>
@@ -110,6 +96,7 @@ My research interests are deep learning theories, methods, and applications for 
 </div>
 <br>
 
+- <strong>Pmate: Pay More Attention to Edge Points in 3D Roof Wireframe Reconstruction</strong>, Qiaoqiao Hao, Yujun Liu, Shangfeng Huang, **Ting Han**, Duxin Zhu, Jinhe Su, Yundong Wu, GuoRong Cai\**, *Available at SSRN 4895552*, 2024.
 - <strong>NMC3D: Non-overlapping Multi-Camera Calibration based on Sparse 3D Map</strong>, Changshuai Dai, **Ting Han**, Yang Luo, Mengyi Wang, Guorong Cai, Jinhe Su, Zheng Gong, Niansheng Liu\*, *Sensors*, 2024. (JCR Q2)
 - <strong>Comparative Analysis of Advanced Feature Matching Algorithms in Challenge High Spatial Resolution Optical Stereo Scenarios</strong>, Qiyan Luo, Jidan Zhang, Yuzhen Xie, Xu Huang\*, **Ting Han**, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2024. (Oral)
 - <strong>Incorporating Building Information into Road Extraction from Remote Sensing Images</strong>, Xiangyi Xie, **Ting Han**, Yumeng Du, Yiping Chen\*, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2024. (Oral)
@@ -120,6 +107,7 @@ My research interests are deep learning theories, methods, and applications for 
 
 ---
 ### **Honours** 🎁
+- **First Prize** in the 3D LiDAR Point Cloud Data Processing Competition at the 8th National LiDAR Conference, 2024.
 - **Best Paper Award** at the 2nd Global Forum on Space Information for Sustainable Development, 2024.
 - **Second Prize** of Geographic Information Technology Progress Award, 2024.
 - **Honourable Mention** at the 1st Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics in Conjunction CVPR Workshop 2024 - Building3D Competition.
