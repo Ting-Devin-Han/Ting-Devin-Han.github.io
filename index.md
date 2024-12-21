@@ -36,7 +36,7 @@ My research interests are deep learning theories, methods, and applications for 
   <div style="flex: 70%;">
     <strong>Edge First: Edge-Guided Geometry for Superior 3D Roof Wireframe Reconstruction</strong><br>
     Qiaoqiao Hao, <strong>Ting Han</strong>, Yujun Liu, Shangfeng Huang, Duxin Zhu, Jinhe Su, Yundong Wu, Guorong Cai**<br>
-    2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025) (<strong>CCF-B</strong>)<br>
+    IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2025 (<strong>CCF-B</strong>)<br>
     <a href="">Paper📄</a>
   </div>
 </div>
