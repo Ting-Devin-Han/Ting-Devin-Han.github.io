@@ -30,6 +30,20 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/HSPFormer.jpg" alt="HSPFormer" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>HSPFormer: Hierarchical Spatial PerceptionTransformer for Semantic Segmentation</strong><br>
+    Siyu Chen*, <strong>Ting Han*</strong>, Changshe Zhang, Jinhe Su, Ruisheng Wang, Yiping Chen, Zongyue Wang, Guorong Cai**<br>
+    IEEE Trans. Intell. Transp. Syst. 2024 (<strong>JCR Q1, IF=8.5, CCF-B</strong>)<br>
+    <a href="">Paper📄</a><a href="https://github.com/SY-Ch/HSPFormer">Code🖥️</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Pmate.png" alt="Edge First" style="width: 90%;"/>
     </a>
   </div>
