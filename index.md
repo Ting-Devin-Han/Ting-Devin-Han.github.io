@@ -26,7 +26,7 @@ My research interests are deep learning theories, methods, and applications for 
 
 ### **Publications** 🔔
 
-#### **2024**
+#### **2025**
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -36,11 +36,12 @@ My research interests are deep learning theories, methods, and applications for 
   <div style="flex: 70%;">
     <strong>HSPFormer: Hierarchical Spatial PerceptionTransformer for Semantic Segmentation</strong><br>
     Siyu Chen*, <strong>Ting Han*</strong>, Changshe Zhang, Jinhe Su, Ruisheng Wang, Yiping Chen, Zongyue Wang, Guorong Cai**<br>
-    IEEE Trans. Intell. Transp. Syst. 2024 (<strong>JCR Q1, IF=8.5, CCF-B</strong>)<br>
+    IEEE Trans. Intell. Transp. Syst. 2025 (<strong>JCR Q1, IF=8.5, CCF-B</strong>)<br>
     <a href="">Paper📄</a><a href="https://github.com/SY-Ch/HSPFormer">Code🖥️</a>
   </div>
 </div>
 <br>
+#### **2024**
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
