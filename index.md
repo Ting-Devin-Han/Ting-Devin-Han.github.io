@@ -40,7 +40,6 @@ My research interests are deep learning theories, methods, and applications for 
     <a href="">Paper📄</a><a href="https://github.com/SY-Ch/HSPFormer">Code🖥️</a>
   </div>
 </div>
-<br>
 #### **2024**
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
@@ -125,7 +124,6 @@ My research interests are deep learning theories, methods, and applications for 
     <a href="https://ieeexplore.ieee.org/abstract/document/10417732">Paper📄</a><a href="https://github.com/Ting-Devin-Han/Epurate-Net">Code🖥️</a>
   </div>
 </div>
-<br>
 
 - <strong>Pmate: Pay More Attention to Edge Points in 3D Roof Wireframe Reconstruction</strong>, Qiaoqiao Hao, Yujun Liu, Shangfeng Huang, **Ting Han**, Duxin Zhu, Jinhe Su, Yundong Wu, GuoRong Cai\*\*, *Available at SSRN 4895552*, 2024.
 - <strong>NMC3D: Non-overlapping Multi-Camera Calibration based on Sparse 3D Map</strong>, Changshuai Dai, **Ting Han**, Yang Luo, Mengyi Wang, Guorong Cai, Jinhe Su, Zheng Gong, Niansheng Liu\*\*, *Sensors*, 2024. (JCR Q2)
