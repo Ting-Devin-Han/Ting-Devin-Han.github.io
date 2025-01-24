@@ -156,7 +156,9 @@ My research interests are deep learning theories, methods, and applications for 
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing.
 - Reviewer of International Journal of Applied Earth Observation and Geoinformation.
 - Reviewer of IEEE Geoscience and Remote Sensing Letters.
+- Reviewer of The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
 - Reviewer of IEEE International Conference on Robotics and Automation (ICRA).
+- Reviewer of IEEE International Conference on Multimedia &Expo (ICME).
 - Reviewer of IET Image Processing.
 - Reviewer of IET Intelligent Transport Systems.
 - Reviewer of Electronics Letters.
