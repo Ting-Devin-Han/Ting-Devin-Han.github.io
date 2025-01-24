@@ -40,7 +40,6 @@ My research interests are deep learning theories, methods, and applications for 
     <a href="">Paper📄</a><a href="https://github.com/SY-Ch/HSPFormer">Code🖥️</a>
   </div>
 </div>
-#### **2024**
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -50,11 +49,11 @@ My research interests are deep learning theories, methods, and applications for 
   <div style="flex: 70%;">
     <strong>Edge First: Edge-Guided Geometry for Superior 3D Roof Wireframe Reconstruction</strong><br>
     Qiaoqiao Hao, <strong>Ting Han</strong>, Yujun Liu, Shangfeng Huang, Duxin Zhu, Jinhe Su, Yundong Wu, Guorong Cai**<br>
-    IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2025 (<strong>CCF-B</strong>)<br>
+    IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP). 2025 (<strong>CCF-B</strong>)<br>
     <a href="">Paper📄</a>
   </div>
 </div>
-<br>
+#### **2024**
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
