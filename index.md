@@ -30,6 +30,22 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/CSFNet.gif" alt="CSFNet" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>CSFNet: Cross-modal Semantic Focus Network for Sematic Segmentation of Large-Scale Point Clouds</strong><br>
+    Yang Luo, <strong>Ting Han</strong>, Yujun Liu, Jinhe Su, Yiping Chen, Jinyuan Li, Yundong Wu, Guorong Cai**<br>
+    IEEE Trans. Geosci. Remote Sens. 2025 (<strong>JCR Q1, IF=7.5, CCF-B</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10856216">Paper📄</a>
+  </div>
+</div>
+<br>
+- <strong>Progressive Camera-LiDAR Adaptation for Scene Flow Estimation</strong>, **Ting Han**, Yang Luo, Siyu Chen, Xiangyi Xie, Chaolei Wang, Hongchao Fan, Yiping Chen\*\*, *ISPRS Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci.*, 2025.
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/HSPFormer-final.gif" alt="HSPFormer" style="width: 90%;"/>
     </a>
   </div>
@@ -37,7 +53,7 @@ My research interests are deep learning theories, methods, and applications for 
     <strong>HSPFormer: Hierarchical Spatial PerceptionTransformer for Semantic Segmentation</strong><br>
     Siyu Chen*, <strong>Ting Han*</strong>, Changshe Zhang, Jinhe Su, Ruisheng Wang, Yiping Chen, Zongyue Wang, Guorong Cai**<br>
     IEEE Trans. Intell. Transp. Syst. 2025 (<strong>JCR Q1, IF=8.5, CCF-B</strong>)<br>
-    <a href="">Paper📄</a><a href="https://github.com/SY-Ch/HSPFormer">Code🖥️</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10844029">Paper📄</a><a href="https://github.com/SY-Ch/HSPFormer">Code🖥️</a>
   </div>
 </div>
 <br>
