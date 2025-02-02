@@ -18,7 +18,7 @@
 </div>
 
 ### **Bio & Research Interests** 🔥
-I am currently a first year Ph.D. student in [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/), [Sun Yat-Sen University](https://www.sysu.edu.cn/), under the supervision of Professor [Yiping Chen](https://ting-devin-han.github.io/Epingpages.github.io/). I graduated from the School of Computer Engineering at Jimei University for my master's degree, where my advisor was Professor [Guorong Cai](https://cec.jmu.edu.cn/info/1008/4123.htm).
+I am currently a second year Ph.D. student in [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/), [Sun Yat-Sen University](https://www.sysu.edu.cn/), under the supervision of Professor [Yiping Chen](https://ting-devin-han.github.io/Epingpages.github.io/). I graduated from the School of Computer Engineering at Jimei University for my master's degree, where my advisor was Professor [Guorong Cai](https://cec.jmu.edu.cn/info/1008/4123.htm).
 
 My research interests are deep learning theories, methods, and applications for 3D point cloud processing in remote sensing. 🚀🚀🚀
 
@@ -50,7 +50,7 @@ My research interests are deep learning theories, methods, and applications for 
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>HSPFormer: Hierarchical Spatial PerceptionTransformer for Semantic Segmentation</strong><br>
+    <strong>HSPFormer: Hierarchical Spatial Perception Transformer for Semantic Segmentation</strong><br>
     Siyu Chen*, <strong>Ting Han*</strong>, Changshe Zhang, Jinhe Su, Ruisheng Wang, Yiping Chen, Zongyue Wang, Guorong Cai**<br>
     IEEE Trans. Intell. Transp. Syst. 2025 (<strong>JCR Q1, IF=8.5, CCF-B</strong>)<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10844029">Paper📄</a><a href="https://github.com/SY-Ch/HSPFormer">Code🖥️</a>
