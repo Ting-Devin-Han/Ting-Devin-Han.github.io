@@ -30,7 +30,7 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/CSFNet.gif" alt="CSFNet" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/CSFNet3.gif" alt="CSFNet" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
@@ -40,8 +40,6 @@ My research interests are deep learning theories, methods, and applications for 
     <a href="https://ieeexplore.ieee.org/abstract/document/10856216">Paper📄</a>
   </div>
 </div>
-<br>
-- <strong>Progressive Camera-LiDAR Adaptation for Scene Flow Estimation</strong>, **Ting Han**, Yang Luo, Siyu Chen, Xiangyi Xie, Chaolei Wang, Hongchao Fan, Yiping Chen\*\*, *ISPRS Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci.*, 2025.
 <br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
@@ -70,6 +68,8 @@ My research interests are deep learning theories, methods, and applications for 
     <a href="">Paper📄</a>
   </div>
 </div>
+<br>
+- <strong>Progressive Camera-LiDAR Adaptation for Scene Flow Estimation</strong>, **Ting Han**, Yang Luo, Siyu Chen, Xiangyi Xie, Chaolei Wang, Hongchao Fan, Yiping Chen\*\*, *ISPRS Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci.*, 2025.
 #### **2024**
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
