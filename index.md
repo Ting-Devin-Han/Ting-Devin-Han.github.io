@@ -30,6 +30,20 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Scene4U.jpg" alt="Scene4U" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration</strong><br>
+    Zilong Huang, Jun He, Junyan Ye, Lihan Jiang, Weijia Li, Yiping Chen**, <strong>Ting Han**</strong><br>
+    Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR). 2025 (<strong>CCF-A</strong>)<br>
+    <a href="">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/CSFNet3.gif" alt="CSFNet" style="width: 90%;"/>
     </a>
   </div>
