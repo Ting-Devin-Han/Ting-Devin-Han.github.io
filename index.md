@@ -83,7 +83,7 @@ My research interests are deep learning theories, methods, and applications for 
   </div>
 </div>
 <br>
-- <strong>Progressive Camera-LiDAR Adaptation for Scene Flow Estimation</strong>, **Ting Han**, Yang Luo, Siyu Chen, Xiangyi Xie, Chaolei Wang, Hongchao Fan, Yiping Chen\*\*, *ISPRS Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci.*, 2025.
+- <strong>Progressive Camera-LiDAR Adaptation for Scene Flow Estimation</strong>, **Ting Han**, Yang Luo, Siyu Chen, Xiangyi Xie, Chaolei Wang, Hongchao Fan, Yiping Chen\*\*, *ISPRS Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci.*, 2025. (**Oral**)
 #### **2024**
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
@@ -157,8 +157,8 @@ My research interests are deep learning theories, methods, and applications for 
 <br>
 - <strong>Pmate: Pay More Attention to Edge Points in 3D Roof Wireframe Reconstruction</strong>, Qiaoqiao Hao, Yujun Liu, Shangfeng Huang, **Ting Han**, Duxin Zhu, Jinhe Su, Yundong Wu, GuoRong Cai\*\*, *Available at SSRN 4895552*, 2024.
 - <strong>NMC3D: Non-overlapping Multi-Camera Calibration based on Sparse 3D Map</strong>, Changshuai Dai, **Ting Han**, Yang Luo, Mengyi Wang, Guorong Cai, Jinhe Su, Zheng Gong, Niansheng Liu\*\*, *Sensors*, 2024. (JCR Q2)
-- <strong>Comparative Analysis of Advanced Feature Matching Algorithms in Challenge High Spatial Resolution Optical Stereo Scenarios</strong>, Qiyan Luo, Jidan Zhang, Yuzhen Xie, Xu Huang\*\*, **Ting Han**, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2024. (Oral)
-- <strong>Incorporating Building Information into Road Extraction from Remote Sensing Images</strong>, Xiangyi Xie, **Ting Han**, Yumeng Du, Yiping Chen\*\*, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2024. (Oral)
+- <strong>Comparative Analysis of Advanced Feature Matching Algorithms in Challenge High Spatial Resolution Optical Stereo Scenarios</strong>, Qiyan Luo, Jidan Zhang, Yuzhen Xie, Xu Huang\*\*, **Ting Han**, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2024. (**Oral**)
+- <strong>Incorporating Building Information into Road Extraction from Remote Sensing Images</strong>, Xiangyi Xie, **Ting Han**, Yumeng Du, Yiping Chen\*\*, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2024. (**Oral**)
 - <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, **Ting Han**, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, Yiping Chen\*\*, *Geomatics and Information Science of Wuhan University*, 2024.
 
 #### **2023**
@@ -166,7 +166,7 @@ My research interests are deep learning theories, methods, and applications for 
 - <strong>HEAT: Incorporating Hierarchical Enhanced Attention Transformation into Urban Road Detection</strong>, **Ting Han**, Chuanmu Li, Siyu Chen, Zongyue Wang, Jinhe Su, Yundong Wu, Guorong Cai\*\*, *IET Intell. Transp. Syst.*, 2023. (JCR Q2, CCF-C)
 
 #### **2022**
-- <strong>CAT: Using Cross Attention Transformation to Build Correlation of RGB-D for Road Detection</strong>, **Ting Han**, Guorong Cai, Xinying Wang, Siyu Chen, Hefeng Chen, Yanhao Lin, Huan Xu, Chuanmu Li\*\*, *2022 8th International Conference on Big Data Computing and Communications*, 2022. (Oral)
+- <strong>CAT: Using Cross Attention Transformation to Build Correlation of RGB-D for Road Detection</strong>, **Ting Han**, Guorong Cai, Xinying Wang, Siyu Chen, Hefeng Chen, Yanhao Lin, Huan Xu, Chuanmu Li\*\*, *2022 8th International Conference on Big Data Computing and Communications*, 2022. (**Oral**)
 
 ---
 ### **Honours** 🎁
