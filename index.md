@@ -30,7 +30,7 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Scene4U.jpg" alt="Scene4U" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Scene4U.gif" alt="Scene4U" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
