@@ -84,6 +84,10 @@ My research interests are deep learning theories, methods, and applications for 
 </div>
 <br>
 - <strong>Progressive Camera-LiDAR Adaptation for Scene Flow Estimation</strong>, **Ting Han**, Yang Luo, Siyu Chen, Xiangyi Xie, Chaolei Wang, Hongchao Fan, Yiping Chen\*\*, *ISPRS Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci.*, 2025. (**Oral**)
+- <strong>Large-scale Pseudo-label Supervised 3D Segmentor with Image Priors</strong>, Xiaobin Huang, **Ting Han**, Chenlu Lin, Yiping Chen\*\*, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2025. (**Oral**)
+- <strong>Tree Species Classification and Carbon Storage Estimation via LiDAR and Machine Learning</strong>, Yujia He, Jin Ma, **Ting Han**, Yixian Cai, Xinle Cha, Baiye Feng, Xiangyi Xie, Yiping Chen\*\*, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2025. (**Oral**)
+- <strong>Assessing the Spatial-Temporal Impact of Surface Ozone Pollution on Winter Wheat Productivity in China Based on Multi-source Remote Sensing Data</strong>, Chenxi Du, Jie Pei\*\*, **Ting Han**, *Proc. IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)*, 2025. (**Oral**)
+
 #### **2024**
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
