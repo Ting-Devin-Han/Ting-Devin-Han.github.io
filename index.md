@@ -41,7 +41,6 @@ My research interests are deep learning theories, methods, and applications for 
   </div>
 </div>
 <br>
-<div style
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
