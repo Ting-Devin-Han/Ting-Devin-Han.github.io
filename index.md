@@ -35,7 +35,7 @@ My research interests are deep learning theories, methods, and applications for 
   </div>
   <div style="flex: 70%;">
     <strong>Hyperbolic Multi-Criteria Rating Recommendation</strong><br>
-    Zhihao Guo, Ting Han, Peng Song, Chenjiao Feng, Kaixuan Yao, Jiye Liang**<br>
+    Zhihao Guo, <strong>Ting Han</strong>, Peng Song, Chenjiao Feng, Kaixuan Yao, Jiye Liang**<br>
     Proc. ACM SIGIR Conf. Res. Dev. Inf. Retr. (SIGIR). 2025 (<strong>CCF-A</strong>)<br>
     <a href="">Paper📄</a>
   </div>
