@@ -30,6 +30,21 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/SIGIR.jpg" alt="SIGIR" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Hyperbolic Multi-Criteria Rating Recommendation</strong><br>
+    Zhihao Guo, Ting Han, Peng Song, Chenjiao Feng, Kaixuan Yao, Jiye Liang**<br>
+    Proc. ACM SIGIR Conf. Res. Dev. Inf. Retr. (SIGIR). 2025 (<strong>CCF-A</strong>)<br>
+    <a href="">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/Scene4U.gif" alt="Scene4U" style="width: 90%;"/>
     </a>
   </div>
