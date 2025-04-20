@@ -199,6 +199,7 @@ My research interests are deep learning theories, methods, and applications for 
 ---
 ### **Services** 📝
 - Reviewer of IEEE Transactions on Cybernetics.
+- Reviewer of IEEE Transactions on Industrial Informatics.
 - Reviewer of IEEE IEEE Transactions on Intelligent Transportation Systems.
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing.
 - Reviewer of International Journal of Applied Earth Observation and Geoinformation.
