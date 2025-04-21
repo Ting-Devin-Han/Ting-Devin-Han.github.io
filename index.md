@@ -30,6 +30,20 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/DepthForge.jpg" alt="DepthForge" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation</strong><br>
+    Siyu Chen, <strong>Ting Han**</strong>, Changshe Zhang, Xin Luo, Meiliu Wu, Guorong Cai, Jinhe Su**<br>
+    Arxiv 2024<br>
+    <a href="">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/SIGIR.jpg" alt="SIGIR" style="width: 90%;"/>
     </a>
   </div>
