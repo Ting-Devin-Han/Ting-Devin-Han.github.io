@@ -30,13 +30,27 @@ My research interests are deep learning theories, methods, and applications for 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/BAE.png" alt="BAE" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>A 3D Perspective for Understanding the Mechanisms of Urban Heat Island and Urban Morphology using Multi-modal Geospatial Data and Interpretable Machine Learning</strong><br>
+    <strong>Ting Han*</strong>, Chenxi Du*, Yijia Xie, Xinyan Xian, Xinchang Zhang, Bisheng Yang, Yiping Chen**<br>
+    Building and Environment 2025 (<strong>JCR Q1, IF=7.1</strong>)<br>
+    <a href="">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Ting-Devin-Han.github.io/raw/master/figures/DepthForge.jpg" alt="DepthForge" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
     <strong>Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation</strong><br>
     Siyu Chen, <strong>Ting Han**</strong>, Changshe Zhang, Xin Luo, Meiliu Wu, Guorong Cai, Jinhe Su**<br>
-    Arxiv 2024<br>
+    Arxiv 2025<br>
     <a href="">Paper📄</a>
   </div>
 </div>
