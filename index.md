@@ -234,7 +234,8 @@ My research interests are deep learning theories, methods, and applications for 
 - Reviewer of IEEE Internet of Things Journal.
 - Reviewer of IEEE Robotics and Automation Letters
 - Reviewer of IEEE Geoscience and Remote Sensing Letters.
-- Reviewer of The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+- Reviewer of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+- Reviewer of ACM International Conference on Multimedia (ACM MM).
 - Reviewer of IEEE International Conference on Robotics and Automation (ICRA).
 - Reviewer of IEEE International Conference on Multimedia &Expo (ICME).
 - Reviewer of International Conference on Intelligent Robots and Systemso (IROS).
